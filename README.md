@@ -41,7 +41,7 @@ lib/
 ## Getting Started
 
 ```bash
-git clone https://github.com/mohamedaboughonema/evently.git
+git clone https://github.com/mo-omar-dev/evently.git
 cd evently
 flutter pub get
 flutter run
