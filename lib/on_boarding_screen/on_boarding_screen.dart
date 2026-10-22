@@ -1,11 +1,8 @@
-import 'package:evently/custom_widgets/selection_widget.dart';
 import 'package:evently/ui/auth/login/login_screen.dart';
 import 'package:evently/utils/app_color.dart';
-import 'package:evently/utils/asset_manager.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:introduction_screen/introduction_screen.dart';
-import 'package:evently/l10n/app_localizations.dart';
 
 class OnBoardingScreen extends StatefulWidget {
   const OnBoardingScreen({super.key});
